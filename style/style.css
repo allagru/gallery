@@ -1,0 +1,14 @@
+.gallery {
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+}
+
+.img {
+    width: 700px;
+}
+
+p {
+    padding: 10px;
+    cursor: pointer;
+}
